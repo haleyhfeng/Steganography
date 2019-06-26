@@ -1,6 +1,6 @@
 # Steganography
  
-Description: This project is aim to understand the topic of steganography through implementing the methods of Least Significant bits (LSB) and Neural Network (NN). The code is test on three different data sets with the result of the loss function, which is calcualte by the root mean squared error. 
+Description: This project is aimed to understand the topic of steganography through implementing the methods of Least Significant bits (LSB) and Neural Network (NN). The code is tested on three different data sets with the result of the loss function, which is calcualted by the root mean squared error. 
 
 ## Compile/Run the code
 
